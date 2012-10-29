@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="protected" additionalparam=" -encoding UTF-8 -charset UTF-8" author="true" classpath="lib/commons-lang-2.6.jar;lib/commons-io-2.1.jar;lib/commons-logging-1.1.1.jar;lib/junit-4.10.jar;lib/commons-codec-1.4.jar;lib/sd-jackson-mapper-asl-1.9.5.jar;lib/jdom.jar;lib/sd-guava-13.0.1.jar;lib/sd-slf4j-api-1.6.6.jar;lib/aliyun-openservices.jar;lib/log4j-1.2.16.jar;lib/sd-joda-time-2.1.jar;lib/snda-cloud-storage-java-sdk-2.0.0.jar;lib/httpclient-4.2.1.jar;lib/httpcore-4.2.1.jar;lib/sd-jackson-core-asl-1.9.5.jar;lib/sd-java-xmlbuilder-0.4.jar" destdir="doc" doctitle="云联SDK" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="ali2012.link.spi.impl.ali,ali2012.link.api.impl.ali,ali2012.link.api.impl,ali2012.link.test,ali2012.link.api,ali2012.link.spi.impl.http,ali2012.link.spi,ali2012.link.spi.impl,ali2012.link.spi.impl.snda" source="1.6" sourcefiles="src/ali2012/link/LinkFactory.java,src/ali2012/link/package-info.java" sourcepath="src;test"  windowtitle="云联SDK(v1.0)" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

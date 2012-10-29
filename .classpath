@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/aliyun-openservices.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/sd-guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/sd-jackson-core-asl-1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/sd-jackson-mapper-asl-1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/sd-java-xmlbuilder-0.4.jar"/>
+	<classpathentry kind="lib" path="lib/sd-joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/sd-slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/snda-cloud-storage-java-sdk-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
